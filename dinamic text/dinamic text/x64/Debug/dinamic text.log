@@ -1,0 +1,3 @@
+﻿  dinamic text.c
+C:\Users\Alex\Desktop\прога\dinamic text\dinamic text\dinamic text.c(42,11): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  dinamic text.vcxproj -> C:\Users\Alex\Desktop\прога\dinamic text\x64\Debug\dinamic text.exe
