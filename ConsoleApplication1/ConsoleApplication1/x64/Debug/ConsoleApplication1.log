@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.c
+C:\Users\Alex\Desktop\прога\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(40,8): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\Desktop\прога\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(38,12): warning C4101: k: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Alex\Desktop\прога\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
