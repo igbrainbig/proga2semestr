@@ -1,0 +1,3 @@
+﻿  bubblesort.c
+C:\Users\Alex\Desktop\прога\bubblesort\bubblesort\bubblesort.c(56,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  bubblesort.vcxproj -> C:\Users\Alex\Desktop\прога\bubblesort\x64\Debug\bubblesort.exe
